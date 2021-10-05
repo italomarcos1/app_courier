@@ -29,6 +29,7 @@ export const LoginWith = styled.Text`
   color: #fff;
   font-size: 12px;
   line-height: 16px;
+  font-family: 'SanFrancisco';
   /* font-weight: medium; */
 `;
 

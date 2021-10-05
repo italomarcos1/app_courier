@@ -35,6 +35,7 @@ export const InputContainer = styled.View`
 
 export const InputTitle = styled.Text`
   font-size: 14px;
+  font-family: 'SanFrancisco';
 `;
 
 export const Input = styled.TextInput`
@@ -45,4 +46,6 @@ export const Input = styled.TextInput`
   color: #262626;
   padding-left: 20px;
   font-size: 14px;
+  font-family: 'SanFrancisco';
+  box-shadow: 20px 20px 5px black;
 `;

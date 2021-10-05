@@ -20,99 +20,108 @@
      {
         "id": 1,
         "title": "Burger Especial do Rafa",
+        "picture": "https://img.estadao.com.br/thumbs/640/resources/jpg/2/8/1622178952282.jpg",
         "description":
           "Pão, burger, queijo prato, alface, farofa levemente apimentada, cebola roxa chapeada e molho barbecue.",
-        "oldPrice": "9,00",
-        "newPrice": "7,70",
-        "cashback": "0,38",
+        "price": "9.00",
+        "price_promotional": "7.70",
+        "cashback": "0.38",
         "backgroundColor": "#63c",
         "category": 0
       },
       {
         "id": 2,
-        "title": "Burger Especial do Rafa",
+        "title": "Especial da Casa",
+        "picture": "http://jornalgoias.com.br/wp-content/uploads/2018/06/brigadeiro-boleo-quiejo.jpg",
         "description":
-          "Pão, burger, queijo prato, alface, farofa levemente apimentada, cebola roxa chapeada e molho barbecue.",
-        "oldPrice": "9",
-        "newPrice": "7,70",
-        "cashback": "0,38",
+          "Queijo, vinho, goiabada.",
+        "price": "9",
+        "price_promotional": "7.70",
+        "cashback": "0.38",
         "backgroundColor": "#63c",
         "category": 0
       },
       {
         "id": 3,
-        "title": "Burger Especial do Rafa",
+        "title": "Pizza",
+        "picture": "https://www.pizzaprime.com.br/wp-content/uploads/2019/10/massa-de-pizza.jpeg",
         "description":
-          "Pão, burger, queijo prato, alface, farofa levemente apimentada, cebola roxa chapeada e molho barbecue.",
-        "oldPrice": "9",
-        "newPrice": "7,70",
-        "cashback": "0,38",
+          "Pizza sabor Margherita",
+        "price": "9",
+        "price_promotional": "7.70",
+        "cashback": "0.38",
         "backgroundColor": "#63c",
         "category": 0
       },
       {
         "id": 5,
-        "title": "Burger Especial do Rafa",
+        "title": "Refrigerante",
+        "picture": "https://media.gazetadopovo.com.br/bomgourmet/2016/05/guarana-jesus-com-exclusividad-97fec530.jpg",
         "description":
-          "Pão, burger, queijo prato, alface, farofa levemente apimentada, cebola roxa chapeada e molho barbecue.",
-        "oldPrice": "9,00",
-        "newPrice": "7,70",
-        "cashback": "0,38",
+          "Coca-cola",
+        "price": "9.00",
+        "price_promotional": "7.70",
+        "cashback": "0.38",
         "backgroundColor": "#fd5",
         "category": 1
       },
       {
         "id": 6,
-        "title": "Burger Especial do Rafa",
+        "title": "Açaí 500Ml",
+        "picture": "https://s2.glbimg.com/quwqrYKCCKel3KB_cJnZvIqxE0c=/620x455/e.glbimg.com/og/ed/f/original/2019/06/11/acai.jpg",
         "description":
-          "Pão, burger, queijo prato, alface, farofa levemente apimentada, cebola roxa chapeada e molho barbecue.",
-        "oldPrice": "9",
-        "newPrice": "7,70",
-        "cashback": "0,38",
+          "Açaí com complementos",
+        "price": "9",
+        "price_promotional": "7.70",
+        "cashback": "0.38",
         "backgroundColor": "#fd5",
         "category": 1
       },
       {
         "id": 7,
-        "title": "Burger Especial do Rafa",
+        "title": "Milk-shake",
+        "picture": "https://www.dicasdemulher.com.br/wp-content/uploads/2019/03/milk-shake.jpg",
         "description":
-          "Pão, burger, queijo prato, alface, farofa levemente apimentada, cebola roxa chapeada e molho barbecue.",
-        "oldPrice": "9",
-        "newPrice": "7,70",
-        "cashback": "0,38",
+          "It's a trap.",
+        "price": "9",
+        "price_promotional": "7.70",
+        "cashback": "0.38",
         "backgroundColor": "#fd5",
         "category": 1
       },
       {
         "id": 9,
-        "title": "Burger Especial do Rafa",
+        "title": "Sanduíche Vegano",
+        "picture": "https://i.pinimg.com/originals/74/c5/09/74c50988b9fa693c948abb654bae018c.jpg",
         "description":
           "Pão, burger, queijo prato, alface, farofa levemente apimentada, cebola roxa chapeada e molho barbecue.",
-        "oldPrice": "9,00",
-        "newPrice": "7,70",
-        "cashback": "0,38",
+        "price": "9.00",
+        "price_promotional": "7.70",
+        "cashback": "0.38",
         "backgroundColor": "#f3c",
         "category": 2
       },
       {
         "id": 10,
-        "title": "Burger Especial do Rafa",
+        "title": "Combo",
+        "picture": "https://static5.depositphotos.com/1000647/467/i/600/depositphotos_4674733-stock-photo-tasty-hamburger-and-french-fries.jpg",
         "description":
           "Pão, burger, queijo prato, alface, farofa levemente apimentada, cebola roxa chapeada e molho barbecue.",
-        "oldPrice": "9",
-        "newPrice": "7,70",
-        "cashback": "0,38",
+        "price": "9",
+        "price_promotional": "7.70",
+        "cashback": "0.38",
         "backgroundColor": "#f3c",
         "category": 2
       },
       {
         "id": 11,
-        "title": "Burger Especial do Rafa",
+        "title": "Batata-frita",
+        "picture": "https://static.clubedaanamariabraga.com.br/wp-content/uploads/2019/02/batata-frita-sequinha-crocante.jpeg",
         "description":
           "Pão, burger, queijo prato, alface, farofa levemente apimentada, cebola roxa chapeada e molho barbecue.",
-        "oldPrice": "9",
-        "newPrice": "7,70",
-        "cashback": "0,38",
+        "price": "9",
+        "price_promotional": "7.70",
+        "cashback": "0.38",
         "backgroundColor": "#f3c",
         "category": 2
       }

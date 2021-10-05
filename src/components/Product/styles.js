@@ -1,4 +1,5 @@
 import styled, { css } from 'styled-components/native';
+import { Link } from 'react-router-native';
 
 const boldText = css`
   font-size: 18px;
@@ -16,7 +17,7 @@ export const Container = styled.View`
   margin-top: 20px;
 `;
 
-export const ImageContainer = styled.View`
+export const ImageContainer = styled.TouchableOpacity`
   width: 100%;
   height: 240px;
   background-color: #00000000;
@@ -31,9 +32,10 @@ export const Image = styled.Image`
 
 export const Title = styled.Text`
   ${boldText}
+  font-family: 'SanFranciscoBold';
 `;
 
-export const DescriptionContainer = styled.View`
+export const DescriptionContainer = styled.TouchableOpacity`
   width: 100%;
   padding: 15px;
   padding-bottom: 21px;
@@ -44,20 +46,24 @@ export const Description = styled.Text`
   line-height: 16px;
   color: #595959;
   margin-top: 20px;
+  font-family: 'SanFrancisco';
 `;
 
 export const OldPrice = styled(Description)`
   margin-top: 0px;
   text-decoration: line-through;
+  font-family: 'SanFranciscoPriceBold';
 `;
 
 export const Cashback = styled(Description)`
   margin-top: 0px;
   color: #50d2c2;
+  font-family: 'SanFranciscoPriceBold';
 `;
 
 export const Price = styled.Text`
   ${boldText}
+  font-family:'SanFranciscoPriceBold';
 `;
 
 export const AddToCartButton = styled.TouchableOpacity`
